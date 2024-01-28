@@ -26,7 +26,7 @@ Feel free to explore, modify, and integrate these word filter lists into your pr
 
 If you have additional words or terms that you believe would be valuable for Artim Industries' word filter lists, we encourage you to contribute. Simply fork the repository, make your additions or improvements, and submit a pull request.
 
-Please adhere to the contribution guidelines outlined in the CONTRIBUTING.md file.
+Please adhere to the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 \
@@ -70,7 +70,7 @@ Erkunden Sie die Listen, passen Sie sie nach Bedarf an und integrieren Sie sie g
 
 Wenn Sie zusätzliche Wörter oder Begriffe haben, die Sie für wertvoll in den Wortfilterlisten von Artim Industries halten, ermutigen wir Sie zur Mitarbeit. Gabeln Sie das Repository, fügen Sie Ihre Ergänzungen oder Verbesserungen hinzu und reichen Sie einen Pull-Request ein.
 
-Bitte beachten Sie die in der CONTRIBUTING.md-Datei festgelegten Beitragrichtlinien.
+Bitte beachten Sie die in der [CONTRIBUTING.md](CONTRIBUTING.md)-Datei festgelegten Beitragrichtlinien.
 
 ## Lizenz
 
