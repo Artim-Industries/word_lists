@@ -1,15 +1,328 @@
 [
   {
-    "name": "Deutsches Schwimmabzeichen Bronze (Freischwimmer)",
-    "description": "Das Schwimmabzeichen Bronze ist das zweite Schwimmabzeichen für Kinder in Deutschland.",
-    "url": "https://www.dlrg.de/global/Apps/Asset/assetService.php?db=assets&aid=1348&v=o",
-    "exercises": [
-      {
-        "name": "Baderegeln",
-        "description": "Die theoretische Prüfung umfasst die Kenntnis von Baderegeln",
-        "url": "https://images-ext-1.discordapp.net/external/e6r6tAblWapEabLXST_ZE_TDfij1LUlZ7ib0sOFIko4/%3Fq%3Dtbn%3AANd9GcQMLG4BXfELptavQ_EH3Wd-nOVH9I9UJQkp7w%26s/https/encrypted-tbn0.gstatic.com/images?format=webp"
-      }
-    ]
+	"name": "Frühschwimmer (Seepferdchen)",
+	"description": "Das Seepferdchen ist das erste Schwimmabzeichen für Kinder in Deutschland und dient als Einstieg in das Schwimmenlernen.",
+	"url": "https://www.dlrg.de/global/Apps/Asset/assetService.php?db=assets&aid=1347&v=o",
+	"exercises": [
+  	{
+    	"name": "25 m Schwimmen und Sprung vom Beckenrand",
+    	"description": "Sprung vom Beckenrand mit anschließendem 25 m Schwimmen in Bauch- oder Rückenlage.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Heraufholen eines Gegenstandes",
+    	"description": "Heraufholen eines Gegenstandes mit den Händen aus schultertiefem Wasser.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Baderegeln",
+    	"description": "Kenntnis der Baderegeln.",
+    	"url": "https://images-ext-1.discordapp.net/external/e6r6tAblWapEabLXST_ZE_TDfij1LUlZ7ib0sOFIko4/%3Fq%3Dtbn%3AANd9GcQMLG4BXfELptavQ_EH3Wd-nOVH9I9UJQkp7w%26s/https/encrypted-tbn0.gstatic.com/images?format=webp"
+  	}
+	]
+  },
+  {
+	"name": "Deutsches Schwimmabzeichen Bronze (Freischwimmer)",
+	"description": "Das Schwimmabzeichen Bronze ist das zweite Schwimmabzeichen für Kinder in Deutschland.",
+	"url": "https://www.dlrg.de/global/Apps/Asset/assetService.php?db=assets&aid=1348&v=o",
+	"exercises": [
+  	{
+    	"name": "200 m Schwimmen",
+    	"description": "200 m Schwimmen in höchstens 15 Minuten, davon 150 m in Bauch- oder Rückenlage und 50 m in der anderen Lage.",
+    	"url": ""
+  	},
+  	{
+    	"name": "1x Tieftauchen",
+    	"description": "Tieftauchen auf 2 Meter mit Heraufholen eines Gegenstandes.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Sprung aus 1 m Höhe",
+    	"description": "Paketsprung vom Startblock oder 1-m-Brett.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Baderegeln",
+    	"description": "Kenntnis der Baderegeln.",
+    	"url": "https://images-ext-1.discordapp.net/external/e6r6tAblWapEabLXST_ZE_TDfij1LUlZ7ib0sOFIko4/%3Fq%3Dtbn%3AANd9GcQMLG4BXfELptavQ_EH3Wd-nOVH9I9UJQkp7w%26s/https/encrypted-tbn0.gstatic.com/images?format=webp"
+  	}
+	]
+  },
+  {
+	"name": "Deutsches Schwimmabzeichen Silber",
+	"description": "Das Schwimmabzeichen Silber ist das dritte Schwimmabzeichen in Deutschland und stellt höhere Anforderungen an Ausdauer und Technik.",
+	"url": "https://www.dlrg.de/global/Apps/Asset/assetService.php?db=assets&aid=1349&v=o",
+	"exercises": [
+  	{
+    	"name": "400 m Schwimmen",
+    	"description": "Sprung kopfwärts vom Beckenrand und 20 Minuten Schwimmen. In dieser Zeit sind mindestens 400 m zurückzulegen, davon 300 m in Bauch- oder Rückenlage in einer erkennbaren Schwimmart und 100 m in der anderen Körperlage (Wechsel der Körperlage während des Schwimmens auf der Schwimmbahn ohne Festhalten)",
+    	"url": ""
+  	},
+  	{
+    	"name": "2x Tieftauchen",
+    	"description": "Jeweils einen Gegenstand aus ca. 2 m Tiefe heraufholen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "10 m Streckentauchen",
+    	"description": "Streckentauchen über 10 Meter.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Sprung aus 3 m Höhe",
+    	"description": "Sprung vom 3-m-Brett.",
+    	"url": ""
+  	},
+	{
+    	"name": "Baderegeln",
+    	"description": "Die theoretische Prüfung erfasst die Kenntnisse von Baderegeln und Verhalten zur Selbstrettung (z.B. Verhalten bei Erschöpfung, Lösen von Krämpfen)",
+    	"url": "https://images-ext-1.discordapp.net/external/e6r6tAblWapEabLXST_ZE_TDfij1LUlZ7ib0sOFIko4/%3Fq%3Dtbn%3AANd9GcQMLG4BXfELptavQ_EH3Wd-nOVH9I9UJQkp7w%26s/https/encrypted-tbn0.gstatic.com/images?format=webp"
+  	}
+	]
+  },
+ [
+  {
+	"name": "Deutsches Schwimmabzeichen Gold",
+	"description": "Das Schwimmabzeichen Gold ist das höchste der drei deutschen Jugendschwimmabzeichen.",
+	"url": "https://www.dlrg.de/global/Apps/Asset/assetService.php?db=assets&aid=1350&v=o",
+	"exercises": [
+  	{
+    	"name": "Baderegeln und Rettungsregeln",
+    	"description": "Die theoretische Prüfung umfasst die Kenntnisse von Baderegeln sowie von der Hilfe bei Bade-, Boots- und Eisunfällen (Selbstrettung, einfache Fremdrettung).",
+    	"url": "https://images.dlrg.de/bildung/schwimmabzeichen/theorie_gold.jpg"
+  	},
+  	{
+    	"name": "30 Minuten Schwimmen",
+    	"description": "Sprung kopfwärts vom Beckenrand und 30 Minuten Schwimmen. In dieser Zeit sind mindestens 800 m zurückzulegen, davon 650 m in Bauch- oder Rückenlage in einer erkennbaren Schwimmart und 150 m in der anderen Körperlage. Der Wechsel der Körperlage muss während des Schwimmens auf der Bahn erfolgen, ohne sich festzuhalten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "25 m Kraulschwimmen",
+    	"description": "Startsprung und 25 m Kraulschwimmen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Brustschwimmen (Zeit)",
+    	"description": "Startsprung und 50 m Brustschwimmen in höchstens 1:15 Minuten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Rückenschwimmen",
+    	"description": "50 m Rückenschwimmen mit Grätschschwung ohne Armtätigkeit oder Rückenkraulschwimmen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "10 m Streckentauchen",
+    	"description": "10 m Streckentauchen aus der Schwimmlage (ohne Abstoßen vom Beckenrand).",
+    	"url": ""
+  	},
+  	{
+    	"name": "Dreimal Tieftauchen",
+    	"description": "Dreimal ca. 2 m Tieftauchen von der Wasseroberfläche mit Heraufholen je eines Gegenstandes (z. B. kleiner Tauchring) innerhalb von 3 Minuten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Sprünge",
+    	"description": "Ein Sprung aus 3 m Höhe oder 2 verschiedene Sprünge aus 1 m Höhe.",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Transportschwimmen",
+    	"description": "50 m Transportschwimmen: Schieben oder Ziehen.",
+    	"url": ""
+  	}
+	]
   }
-  
 ]
+[
+  {
+	"name": "Deutsches Rettungsschwimmabzeichen Bronze",
+	"description": "Das Rettungsschwimmabzeichen Bronze ist die erste Stufe der Rettungsschwimmausbildung.",
+	"url": "https://www.dlrg.de/informieren/ausbildung/rettungsschwimmabzeichen/",
+	"exercises": [
+  	{
+    	"name": "200 m Schwimmen",
+    	"description": "200 m Schwimmen in höchstens 10 Minuten, davon 100 m in Bauchlage und 100 m in Rückenlage mit Grätschschwung ohne Armtätigkeit.",
+    	"url": ""
+  	},
+  	{
+    	"name": "100 m Schwimmen in Kleidung",
+    	"description": "100 m Schwimmen in Kleidung in höchstens 4 Minuten, anschließend im Wasser entkleiden.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Drei Sprünge aus 1 m Höhe",
+    	"description": "Drei verschiedene Sprünge aus etwa 1 m Höhe (z. B. Paketsprung, Schrittsprung, Startsprung, Fußsprung, Kopfsprung).",
+    	"url": ""
+  	},
+  	{
+    	"name": "15 m Streckentauchen",
+    	"description": "15 m Streckentauchen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Tieftauchen",
+    	"description": "Zweimal Tieftauchen von der Wasseroberfläche, einmal kopfwärts und einmal fußwärts, innerhalb von 3 Minuten mit zweimaligem Heraufholen eines 5-kg-Tauchrings oder eines gleichartigen Gegenstandes (Wassertiefe zwischen 2 und 3 m).",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Transportschwimmen",
+    	"description": "50 m Transportschwimmen: Schieben oder Ziehen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Befreiungsgriffe",
+    	"description": "Fertigkeiten zur Vermeidung von Umklammerungen sowie zur Befreiung aus Halsumklammerung von hinten und Halswürgegriff von hinten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Schleppen",
+    	"description": "50 m Schleppen, je eine Hälfte mit Kopf- oder Achselschleppgriff und dem Standard-Fesselschleppgriff.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Kombinierte Übung",
+    	"description": "20 m Anschwimmen in Bauchlage, Abtauchen auf halber Strecke auf 2–3 m Wassertiefe und Heraufholen eines 5-kg-Tauchrings, diesen anschließend fallenlassen, Anschwimmen fortsetzen, 20 m Schleppen eines Partners, Demonstration des Anlandbringens, Vorführung der Herz-Lungen-Wiederbelebung.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Theoretische Prüfung",
+    	"description": "Kenntnisse über Gefahren am und im Wasser, Hilfe bei Bade-, Boots- und Eisunfällen (Selbst- und Fremdrettung), Vermeidung von Umklammerungen, Atmung und Blutkreislauf, Hilfe bei Verletzungen und Ertrinkungsunfällen, Hitze- und Kälteschäden, Aufgaben der ausbildenden Wasserrettungsorganisationen.",
+    	"url": ""
+  	}
+	]
+  },
+  {
+	"name": "Deutsches Rettungsschwimmabzeichen Silber",
+	"description": "Das Rettungsschwimmabzeichen Silber erweitert die Kenntnisse und Fähigkeiten des Rettungsschwimmers.",
+	"url": "https://www.dlrg.de/informieren/ausbildung/rettungsschwimmabzeichen/",
+	"exercises": [
+  	{
+    	"name": "400 m Schwimmen",
+    	"description": "400 m Schwimmen in höchstens 15 Minuten, davon 50 m Kraulschwimmen, 150 m Brustschwimmen und 200 m Schwimmen in Rückenlage mit Grätschschwung ohne Armtätigkeit.",
+    	"url": ""
+  	},
+  	{
+    	"name": "300 m Schwimmen in Kleidung",
+    	"description": "300 m Schwimmen in Kleidung in höchstens 12 Minuten, anschließend im Wasser entkleiden.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Sprung aus 3 m Höhe",
+    	"description": "Ein Sprung aus 3 m Höhe.",
+    	"url": ""
+  	},
+  	{
+    	"name": "25 m Streckentauchen",
+    	"description": "25 m Streckentauchen.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Tieftauchen",
+    	"description": "Dreimal Tieftauchen von der Wasseroberfläche, zweimal kopfwärts und einmal fußwärts innerhalb von 3 Minuten, mit dreimaligem Heraufholen eines 5-kg-Tauchrings oder eines gleichartigen Gegenstandes (Wassertiefe zwischen 3 und 5 m).",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Transportschwimmen",
+    	"description": "50 m Transportschwimmen: Schieben oder Ziehen in höchstens 1:30 Minuten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "Befreiungsgriffe",
+    	"description": "Fertigkeiten zur Vermeidung von Umklammerungen sowie zur Befreiung aus Halsumklammerung von hinten und Halswürgegriff von hinten.",
+    	"url": ""
+  	},
+  	{
+    	"name": "50 m Schleppen",
+    	"description": "50 m Schleppen in höchstens 4 Minuten, beide Partner in Kleidung, je eine Hälfte der Strecke mit Kopf- oder Achsel- und einem Fesselschleppgriff (Standard-Fesselschleppgriff oder Seemannsgriff).",
+    	"url": ""
+  	},
+  	{
+    	"name": "Handhabung eines Rettungsgerätes",
+    	"description": "Handhabung und praktischer Einsatz eines Rettungsgerätes (z. B. Gurtretter, Wurfleine oder Rettungsring).",
+    	"url": ""
+  	},
+  	{
+    	"name": "Kombinierte Übung",
+    	"description": "Sprung ins Wasser (Kopf- oder Startsprung), 20 m Anschwimmen in Bauchlage, Abtauchen auf 3–5 m Tiefe, Heraufholen eines 5-kg-Tauchrings, diesen anschließend fallen lassen, Lösen aus einer Umklammerung durch einen Befreiungsgriff, 25 m Schleppen, Sichern des Geretteten, Anlandbringen des Geretteten, 3 Minuten Vorführung der Herz-Lungen-Wiederbelebung (HLW).",
+    	"url": ""
+  	},
+  	{
+    	"name": "Theoretische Prüfung",
+    	"description": "Kenntnisse über Gefahren am und im Wasser, Rettungsgeräte, Hilfe bei Bade-, Boots- und Eisunfällen (Selbst- und Fremdrettung), Vermeidung von Umklammerungen, Atmung und Blutkreislauf, Erste Hilfe, Rechte und Pflichten bei Hilfeleistungen, Aufgaben und Tätigkeiten der ausbildenden Wasserrettungsorganisationen.",
+    	"url": ""
+  	}
+	]
+  },
+ {
+  "name": "Deutsches Rettungsschwimmabzeichen Gold",
+  "description": "Das Rettungsschwimmabzeichen Gold ist die höchste Stufe der Rettungsschwimmausbildung der DLRG.",
+  "url": "https://www.dlrg.de/informieren/ausbildung/rettungsschwimmabzeichen/",
+  "exercises": [
+	{
+  	"name": "400 m Schwimmen",
+  	"description": "400 m Schwimmen in höchstens 10 Minuten, davon 50 m Kraulschwimmen, 150 m Brustschwimmen und 200 m Schwimmen in Rückenlage mit Grätschschwung ohne Armtätigkeit.",
+  	"url": ""
+	},
+	{
+  	"name": "300 m Schwimmen in Kleidung",
+  	"description": "300 m Schwimmen in Kleidung in höchstens 9 Minuten, anschließend im Wasser entkleiden.",
+  	"url": ""
+	},
+	{
+  	"name": "Sprung aus 3 m Höhe",
+  	"description": "Ein Sprung aus 3 m Höhe.",
+  	"url": ""
+	},
+	{
+  	"name": "25 m Streckentauchen",
+  	"description": "25 m Streckentauchen.",
+  	"url": ""
+	},
+	{
+  	"name": "Tieftauchen",
+  	"description": "Dreimal Tieftauchen von der Wasseroberfläche, zweimal kopfwärts und einmal fußwärts innerhalb von 3 Minuten, mit dreimaligem Heraufholen eines 5-kg-Tauchrings oder eines gleichartigen Gegenstandes (Wassertiefe zwischen 3 und 5 m).",
+  	"url": ""
+	},
+	{
+  	"name": "50 m Transportschwimmen",
+  	"description": "50 m Transportschwimmen: Schieben oder Ziehen in höchstens 1:30 Minuten.",
+  	"url": ""
+	},
+	{
+  	"name": "Befreiungsgriffe",
+  	"description": "Fertigkeiten zur Vermeidung von Umklammerungen sowie zur Befreiung aus Halsumklammerung von hinten und Halswürgegriff von hinten.",
+  	"url": ""
+	},
+	{
+  	"name": "50 m Schleppen",
+  	"description": "50 m Schleppen in höchstens 4 Minuten, beide Partner in Kleidung, je eine Hälfte mit Kopf- oder Achselschleppgriff und dem Standard-Fesselschleppgriff oder Seemannsgriff.",
+  	"url": ""
+	},
+	{
+  	"name": "Einsatz eines Rettungsgerätes",
+  	"description": "Handhabung und praktischer Einsatz eines Rettungsgerätes (z. B. Gurtretter, Rettungsboje, Wurfleine oder Rettungsring).",
+  	"url": ""
+	},
+	{
+  	"name": "300 m Flossenschwimmen",
+  	"description": "300 m Flossenschwimmen in höchstens 6 Minuten, davon 250 m Bauch- oder Seitenlage und 50 m Schleppen, zu schleppender Partner in Kleidung (Kopf- oder Achselgriff).",
+  	"url": ""
+	},
+	{
+  	"name": "Kombinierte Übung",
+  	"description": "Sprung ins Wasser (Kopf- oder Startsprung), 25 m Anschwimmen in Bauchlage, Abtauchen auf 3 bis 5 m Tiefe, Heraufholen eines 5-kg-Tauchrings oder eines gleichartigen Gegenstandes, diesen anschließend fallen lassen, Lösen aus einer Umklammerung durch einen Befreiungsgriff, 25 m Schleppen, Sichern des Geretteten, Anlandbringen des Geretteten.",
+  	"url": ""
+	},
+	{
+  	"name": "Herz-Lungen-Wiederbelebung (HLW)",
+  	"description": "3 Minuten Vorführung der Herz-Lungen-Wiederbelebung (HLW).",
+  	"url": ""
+	},
+	{
+  	"name": "Theoretische Kenntnisse",
+  	"description": "Nachweis folgender Kenntnisse: Gefahren am und im Wasser, Rettungsgeräte, Hilfe bei Bade-, Boots- und Eisunfällen (Selbst- und Fremdrettung), Vermeidung von Umklammerungen, Atmung und Blutkreislauf, Erste Hilfe, Rechte und Pflichten bei Hilfeleistungen, Aufgaben und Tätigkeiten der Wasserrettungsorganisationen.",
+  	"url": ""
+	}
+  ]
+}
