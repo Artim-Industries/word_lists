@@ -132,9 +132,7 @@
     	"url": ""
   	}
 	]
-  }
-]
-[
+  },
   {
 	"name": "Deutsches Rettungsschwimmabzeichen Bronze",
 	"description": "Das Rettungsschwimmabzeichen Bronze ist die erste Stufe der Rettungsschwimmausbildung.",
@@ -326,3 +324,5 @@
 	}
   ]
 }
+ ]
+]
