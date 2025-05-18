@@ -80,7 +80,7 @@
   	}
 	]
   },
- [
+ 
   {
 	"name": "Deutsches Schwimmabzeichen Gold",
 	"description": "Das Schwimmabzeichen Gold ist das höchste der drei deutschen Jugendschwimmabzeichen.",
@@ -323,6 +323,5 @@
   	"url": ""
 	}
   ]
-}
- ]
+ }
 ]
